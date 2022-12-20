@@ -4,7 +4,7 @@
 
  🔭 I’m currently looking for a job 
  
- 🌱 I’m currently learning JavaScript and React
+ 🌱 I’m currently learning Node.js and React
  
  📫 How to reach me: in/william-braz/
 
