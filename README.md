@@ -1,12 +1,25 @@
 <div align="center">
-  Hi there 👋 
+  
+  Olá, <br>
+  Me chamo William, tenho 23 anos. Atualmente estudo Desenvolvimento de software multiplataforma na Fatec Mauá.<br><br>
 
+ Conhecimento é  e sempre foi o meu combustível. <br>
+ Meu autodidatismo e resiliência me permitem uma fácil adaptação em qualquer ambiente. <br>
+  
+ Atualmente sigo estudando para iniciar na área de desenvolvimento, seja back-end, front-end ou fulll-stack. <br><br>
+  
+Possuo conhecimentos em programação estruturada com linguagem C e atualmente estudo OOP com java. Antes disso, desenvolvi projetos com node.js, aplicando alguns conhecimentos de handlebarsJS, expressJS e integrando com mySQL para realização de CRUD. <br><br>
+  
+Também possuo amplo conhecimento em front-end. Realizei, em 2017, na conclusão do meu curso técnico, um site que tinha como proposta a divulgação de quadrinistas independentes na web. Para a concepção do site, utilizamos HTML, CSS e bootstrap. <br><br>
+  
+Atuei como estagiário de arquitetura por 11 meses até que resolvi me desafiar e voltar à área de tecnologia.<br><br>
 
- 🔭 I’m currently looking for a job 
- 
- 🌱 I’m currently learning Node.js and React
- 
- 📫 How to reach me: in/william-braz/
+Por aqui, você vai encontrar toda a minha evolução como estudante de desenvolvimento, desde projetos pessoais, de bootcamps e da faculdade.
+  
+  
+ 📫 Como me encontrar? 
+  in/william-braz/
+  williambraz65@gmail.com
 
 </div>
 <div align="center">
