@@ -19,7 +19,7 @@ Por aqui, você vai encontrar toda a minha evolução como estudante de desenvol
   
  📫 Como me encontrar? 
   in/william-braz/
-  williambraz65@gmail.com
+
 
 </div>
 <div align="center">
