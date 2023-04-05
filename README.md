@@ -1,7 +1,7 @@
 <div align="center">
   
   Olá, <br>
- Sou um estudante de desenvolvimento de software multiplataforma, com experiência em TI e arquitetura.<br> 
+ Sou um estudante de desenvolvimento de software multiplataforma, com experiência em TI e arquitetura e urbanismo.<br> 
  Possuo habilidades em lógica de programação, OO, UI/UX e back-end, obtidas através de cursos e estágios. <br>
  Estou em busca de oportunidades para aplicar meus conhecimentos e me desenvolver profissionalmente.<br>
   
