@@ -1,10 +1,8 @@
 <div align="center">
   
   Olá, <br>
- Sou um estudante de desenvolvimento de software multiplataforma, com experiência em TI e arquitetura e urbanismo.<br> 
- Possuo habilidades em lógica de programação, OO, UI/UX e back-end, obtidas através de cursos e estágios. <br>
- Estou em busca de oportunidades para aplicar meus conhecimentos e me desenvolver profissionalmente.<br>
-  
+ Sou um estudante de desenvolvimento de software multiplataforma, me capacitando para me tornar um profissional Quality Assurance<br> 
+ Possuo habilidades em Java, Docker, SQL, obtidas através de cursos e no meu estágio atual na DBC Company <br>
   
  📫 Como me encontrar? 
   in/william-braz/
@@ -13,7 +11,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/Ww1ll">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ww1ll&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ww1ll&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ww1ll&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
