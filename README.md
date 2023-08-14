@@ -1,10 +1,8 @@
 <div align="center">
   
- Hello <br>
- And Welcome!
+ Hello, <br>
+ and Welcome!
   
- 📫 Como me encontrar? 
-  in/william-braz/
 
 
 </div>
