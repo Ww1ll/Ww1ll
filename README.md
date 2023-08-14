@@ -1,7 +1,8 @@
 <div align="center">
   
   Olá, <br>
- Sou um estudante de desenvolvimento de software multiplataforma, me capacitando para me tornar um profissional Quality Assurance<br> 
+ Sou um estudante de desenvolvimento de software multiplataforma, me capacitando para me tornar <br> 
+  um profissional em Quality Assurance.<br> 
  Possuo habilidades em Java, Docker, SQL, obtidas através de cursos e no meu estágio atual na DBC Company <br>
   
  📫 Como me encontrar? 
