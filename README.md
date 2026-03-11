@@ -1,27 +1,111 @@
-<div align="center">
-  
- Hello, <br>
- and Welcome!
-  
+# 👋 Hello, I'm William Braz
 
+💻 QA Engineer | Test Automation | SDET  
+📍 São Paulo, Brazil  
 
-</div>
-<div align="center">
-  <a href="https://github.com/Ww1ll">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ww1ll&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ww1ll&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Quality Assurance Engineer focused on **test automation, API testing, performance testing and CI/CD quality practices**.
 
-<div align="center" style="display: inline_block"><br>
- <img align="center" alt="Will-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img align="center" alt="Will-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Will-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  
+My repositories showcase **automation frameworks, API testing strategies, performance testing scripts and CI/CD integrations**, demonstrating practical approaches to **Quality Engineering and Shift-Left testing**.
 
-  <img align="center" alt="Will-Dc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Will-Or" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Will-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+---
 
-   <img align="center" alt="Will-jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+# 🧪 QA / SDET Focus
 
-</div>
+I work with modern testing practices including:
+
+- Test Automation
+- API Testing
+- End-to-End Testing
+- Performance Testing
+- Continuous Testing
+- Quality Engineering
+- CI/CD Test Integration
+
+My goal is to build **reliable automation frameworks and scalable testing strategies** that support modern DevOps pipelines.
+
+---
+
+# 🚀 Tools & Technologies
+
+### Test Automation
+- Cypress
+- JavaScript
+- BDD
+
+### API Testing
+- Postman
+- REST API validation
+- Automated API tests
+
+### Performance Testing
+- k6
+
+### DevOps / CI/CD
+- Jenkins
+- GitHub
+- CI/CD pipelines
+- Automated test execution
+
+---
+
+# 📂 Repository Highlights
+
+Here are some of the main topics covered in my repositories:
+
+### 🧪 Test Automation
+Projects demonstrating **end-to-end test automation using Cypress**, including:
+
+- UI automation
+- Regression test suites
+- BDD test scenarios
+- Test structure and maintainability
+
+---
+
+### 🔌 API Testing
+Repositories focused on **API validation and automation**, including:
+
+- Postman collections
+- Automated API test flows
+- Request validation
+- API response assertions
+
+---
+
+### ⚡ Performance Testing
+Performance and load testing examples using **k6**, including:
+
+- Load test scripts
+- API stress testing
+- Long-running test strategies
+- Metrics analysis
+
+---
+
+### ⚙️ CI/CD Testing
+Examples of integrating tests into **CI/CD pipelines**, including:
+
+- Automated test execution
+- Pipeline quality gates
+- Continuous testing strategies
+
+---
+
+# 📚 What I'm Currently Learning
+
+- Advanced Test Automation Architecture
+- SDET practices
+- Scalable automation frameworks
+- Observability for testing
+- Performance testing strategies
+
+---
+
+# 📫 Contact
+
+📧 Email: williambraz65@gmail.com  
+💼 LinkedIn: (add your linkedin here)
+
+---
+
+⭐ Feel free to explore the repositories and automation projects.
