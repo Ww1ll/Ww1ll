@@ -104,7 +104,7 @@ Examples of integrating tests into **CI/CD pipelines**, including:
 # 📫 Contact
 
 📧 Email: williambraz65@gmail.com  
-💼 LinkedIn: (add your linkedin here)
+💼 LinkedIn: ([/in/william-braz](https://www.linkedin.com/in/william-braz/))
 
 ---
 
